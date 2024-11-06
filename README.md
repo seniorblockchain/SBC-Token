@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cache.tonapi.io/imgproxy/kKvhsObSHLdWf3pZ6XLa16eBGHRgrHBDnJhOMTBXO_4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hdmF0YXJzLmdpdGh1YnVzZXJjb250ZW50LmNvbS91Lzk1OTA1NjQx.webp" alt="SBC Logo" width="150"/>
+  <img src="https://cache.tonapi.io/imgproxy/wfg5x5kMXVvOXw2xG-BBLt3uunFqIw6aAfx5QeCJ6Uw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hdmF0YXJzLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzE0ODQ1MjcwNg.webp" alt="SBC Logo" width="120"/>
 </p>
 
 # Senior Blockchain (SBC)
@@ -11,33 +11,33 @@ Welcome to the official repository of the **SBC** token on the TON blockchain. S
 ---
 ## 📜 Token Details
 
-| Property         | Value                                                                                       |
-|------------------|---------------------------------------------------------------------------------------------|
-| **Name**         | Senior Blockchain                                                                           |
-| **Symbol**       | SBC                                                                                         |
-| **Decimals**     | 9                                                                                           |
-| **Max Supply**   | 256,000,000 SBC                                                                             |
-| **Owner**        | [https://seniorblockchain.io](https://seniorblockchain.io)                                  |
-| **Smart Contract** | `EQCQA0V-E_J-aYuqKDgBVhsqGgL5Y6DnXJuPIEdRsNSJqGVG`                                         |
-| **Description**  | Decentralize everything is our vision.                                                      |
+| Property           | Value                                                                                       |
+|--------------------|---------------------------------------------------------------------------------------------|
+| **Name**           | Senior Blockchain                                                                           |
+| **Symbol**         | SBC                                                                                         |
+| **Decimals**       | 8                                                                                           |
+| **Max Supply**     | 256,000,000 SBC                                                                             |
+| **Owner**          | [https://seniorblockchain.io](https://seniorblockchain.io)                                  |
+| **Smart Contract** | `EQBIQe_KkVxaJmga7LVgwvB8lcXbbfsqdziGgDXfD-zW4KU9`                                          |
+| **Description**    | Decentralize everything is our vision.                                                      |
 
 ---
 
 ## 🧩 Contract Information
 
 - **Blockchain**: [TON Blockchain](https://ton.org/)
-- **Token Address**: `EQCQA0V-E_J-aYuqKDgBVhsqGgL5Y6DnXJuPIEdRsNSJqGVG`
+- **Token Address**: `EQBIQe_KkVxaJmga7LVgwvB8lcXbbfsqdziGgDXfD-zW4KU9`
 - **Decimals**: 9
 - **Owner**: [https://seniorblockchain.io](https://seniorblockchain.io)
 
 ### JSON Data
 ```json
 {
-  "address": "EQCQA0V-E_J-aYuqKDgBVhsqGgL5Y6DnXJuPIEdRsNSJqGVG",
+  "address": "EQBIQe_KkVxaJmga7LVgwvB8lcXbbfsqdziGgDXfD-zW4KU9",
   "name": "Senior Blockchain",
   "symbol": "SBC",
-  "decimals": "9",
-  "image": "https://cache.tonapi.io/imgproxy/kKvhsObSHLdWf3pZ6XLa16eBGHRgrHBDnJhOMTBXO_4/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hdmF0YXJzLmdpdGh1YnVzZXJjb250ZW50LmNvbS91Lzk1OTA1NjQx.webp",
+  "decimals": "8",
+  "image": "https://cache.tonapi.io/imgproxy/wfg5x5kMXVvOXw2xG-BBLt3uunFqIw6aAfx5QeCJ6Uw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hdmF0YXJzLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzE0ODQ1MjcwNg.webp",
   "description": "Decentralize everything is our vision."
 }
 ```
