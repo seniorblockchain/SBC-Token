@@ -2,64 +2,90 @@
   <img src="https://cache.tonapi.io/imgproxy/wfg5x5kMXVvOXw2xG-BBLt3uunFqIw6aAfx5QeCJ6Uw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hdmF0YXJzLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzE0ODQ1MjcwNg.webp" alt="SBC Logo" width="120"/>
 </p>
 
-# Senior Blockchain (SBC)
+<h1>Senior Blockchain (SBC)</h1>
 
-> **Decentralize everything is our vision.**
+<blockquote>
+  <strong>Our vision: Decentralize everything.</strong>
+</blockquote>
 
-Welcome to the official repository of the **SBC** token on the TON blockchain. SBC is designed to support a fully decentralized ecosystem, with features optimized for scalability, security, and flexibility. Below, you’ll find all the essential details regarding SBC.
+<p>Welcome to the official repository of the <strong>SBC</strong> token on the TON blockchain. The SBC token is meticulously crafted to foster a fully decentralized ecosystem, boasting features that prioritize scalability, security, and flexibility. Below, you will find all the essential information regarding SBC.</p>
 
----
-## 📜 Token Details
+<hr/>
 
-| Property           | Value                                                                                       |
-|--------------------|---------------------------------------------------------------------------------------------|
-| **Name**           | Senior Blockchain                                                                           |
-| **Symbol**         | SBC                                                                                         |
-| **Decimals**       | 8                                                                                           |
-| **Max Supply**     | 256,000,000 SBC                                                                             |
-| **Owner**          | [https://seniorblockchain.io](https://seniorblockchain.io)                                  |
-| **Smart Contract** | `EQBIQe_KkVxaJmga7LVgwvB8lcXbbfsqdziGgDXfD-zW4KU9`                                          |
-| **Description**    | Decentralize everything is our vision.                                                      |
+<h2>📜 Token Details</h2>
 
----
+<table>
+  <tr>
+    <th>Property</th>
+    <th>Value</th>
+  </tr>
+  <tr>
+    <td><strong>Name</strong></td>
+    <td>Senior Blockchain</td>
+  </tr>
+  <tr>
+    <td><strong>Symbol</strong></td>
+    <td>SBC</td>
+  </tr>
+  <tr>
+    <td><strong>Decimals</strong></td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td><strong>Max Supply</strong></td>
+    <td>256,000,000 SBC</td>
+  </tr>
+  <tr>
+    <td><strong>Owner</strong></td>
+    <td><a href="https://seniorblockchain.io">Senior Blockchain Official Site</a></td>
+  </tr>
+  <tr>
+    <td><strong>Smart Contract</strong></td>
+    <td><code>EQBIQe_KkVxaJmga7LVgwvB8lcXbbfsqdziGgDXfD-zW4KU9</code></td>
+  </tr>
+  <tr>
+    <td><strong>Description</strong></td>
+    <td>Our vision is to decentralize everything.</td>
+  </tr>
+</table>
 
-## 🧩 Contract Information
+<hr/>
 
-- **Blockchain**: [TON Blockchain](https://ton.org/)
-- **Token Address**: `EQBIQe_KkVxaJmga7LVgwvB8lcXbbfsqdziGgDXfD-zW4KU9`
-- **Decimals**: 9
-- **Owner**: [https://seniorblockchain.io](https://seniorblockchain.io)
+<h2>🧩 Contract Information</h2>
 
-### JSON Data
-```json
-{
+<ul>
+  <li><strong>Blockchain</strong>: <a href="https://ton.org/">TON Blockchain</a></li>
+  <li><strong>Token Address</strong>: <code>EQBIQe_KkVxaJmga7LVgwvB8lcXbbfsqdziGgDXfD-zW4KU9</code></li>
+  <li><strong>Decimals</strong>: 8</li>
+  <li><strong>Owner</strong>: <a href="https://seniorblockchain.io">Senior Blockchain Official Site</a></li>
+</ul>
+
+<h3>JSON Data Representation</h3>
+<pre><code>{
   "address": "EQBIQe_KkVxaJmga7LVgwvB8lcXbbfsqdziGgDXfD-zW4KU9",
   "name": "Senior Blockchain",
   "symbol": "SBC",
-  "decimals": "8",
+  "decimals": 8,
   "image": "https://cache.tonapi.io/imgproxy/wfg5x5kMXVvOXw2xG-BBLt3uunFqIw6aAfx5QeCJ6Uw/rs:fill:200:200:1/g:no/aHR0cHM6Ly9hdmF0YXJzLmdpdGh1YnVzZXJjb250ZW50LmNvbS91LzE0ODQ1MjcwNg.webp",
-  "description": "Decentralize everything is our vision."
-}
-```
+  "description": "Our vision is to decentralize everything."
+}</code></pre>
 
----
+<hr/>
 
+<h2>🛠️ How to Interact with SBC</h2>
 
-## 🛠️ How to Interact with SBC
+<p>You can seamlessly interact with the SBC token through various TON-compatible wallets and applications. Simply connect your wallet, input the token address, and begin engaging with SBC across the TON ecosystem.</p>
 
-You can interact with the SBC token using various TON-compatible wallets and applications. Connect your wallet, enter the token address, and start interacting with SBC across the TON ecosystem.
+<hr/>
 
----
+<h2>🤝 Connect with Us</h2>
 
-## 🤝 Connect with Us
+<p>For further information, support, or collaboration inquiries, please visit our official website: <a href="https://seniorblockchain.io">Senior Blockchain Official Site</a></p>
 
-For more details, support, or collaboration, reach out to us via our official website: [https://seniorblockchain.io](https://seniorblockchain.io)
+<hr/>
 
----
-
-> **Note:** This repository serves as an official source for SBC token details on GitHub. Please verify the token address and details before making any transactions.
-
----
+<blockquote>
+  <strong>Note:</strong> This repository serves as the authoritative source for SBC token information on GitHub. Always verify the token address and details before proceeding with any transactions.
+</blockquote>
 
 <p align="center">Built with ❤️ on the TON Blockchain</p>
- 
